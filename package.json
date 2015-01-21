@@ -1,0 +1,19 @@
+{
+  "name": "dependency-enforcer",
+  "version": "0.0.0",
+  "description": "A tool to visual dependencies and help developers minimize design pitfalls like circular dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmerkes/dependency-enforcer.git"
+  },
+  "author": "Matt Merkes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmerkes/dependency-enforcer/issues"
+  },
+  "homepage": "https://github.com/mmerkes/dependency-enforcer"
+}
